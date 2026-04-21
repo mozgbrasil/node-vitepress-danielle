@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:08:17.322Z",
+  "generated_at": "2026-04-21T03:12:03.374Z",
   "active_profile": "danielle",
   "catalog": {
     "site": {
@@ -21,7 +21,7 @@
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://github.com/mozgbrasil/node-vitepress-danielle",
-      "githubPages": "https://github.com/mozgbrasil/node-vitepress-danielle",
+      "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
       "mapsUrl": "",
@@ -57,10 +57,6 @@
           "repositorio publico"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-danielle",
-          "https://www.linkedin.com/in/danielle-amorim-31766435/",
-          "https://github.com/mozgbrasil/node-vitepress-danielle",
-          "https://github.com/mozgbrasil/node-vitepress-danielle",
           "https://github.com/mozgbrasil/node-vitepress-danielle",
           "https://www.linkedin.com/in/danielle-amorim-31766435/"
         ]
@@ -371,7 +367,7 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T02:08:17.322Z",
+    "generated_at": "2026-04-21T03:12:03.374Z",
     "company": "Danielle",
     "site_url": "https://github.com/mozgbrasil/node-vitepress-danielle",
     "counts": {
