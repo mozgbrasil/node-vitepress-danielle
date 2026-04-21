@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-04-21T00:39:43.203Z",
+  "profile_id": "danielle",
+  "label": "Danielle",
+  "title": "Danielle | Perfil profissional",
+  "headline": "Perfil profissional",
+  "primary_url": "https://github.com/mozgbrasil/node-vitepress-danielle",
+  "public_repository": "https://github.com/mozgbrasil/node-vitepress-danielle",
+  "site_url": "https://github.com/mozgbrasil/node-vitepress-danielle",
+  "source_urls": [
+    "https://www.linkedin.com/in/danielle-amorim-31766435/"
+  ],
+  "reference_links": [
+    {
+      "href": "https://www.linkedin.com/in/danielle-amorim-31766435/",
+      "label": "LinkedIn",
+      "note": "perfil profissional publico"
+    },
+    {
+      "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
+      "label": "Repositorio publico",
+      "note": "destino publico da superficie editorial"
+    }
+  ]
+}
