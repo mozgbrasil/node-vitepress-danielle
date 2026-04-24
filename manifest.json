@@ -1,7 +1,7 @@
 {
-  "name": "Danielle | Perfil profissional",
-  "short_name": "Danielle",
-  "description": "Perfil editorial de Danielle com referências públicas organizadas, contexto claro e base pronta para evolução.",
+  "name": "Danielle Amorim | Perfil profissional",
+  "short_name": "Danielle Amorim",
+  "description": "Perfil editorial de Danielle Amorim com LinkedIn, perfil ao vivo e repositório público organizados para leitura simples e evolução coerente.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "/node-vitepress-danielle/",
@@ -9,11 +9,7 @@
   "display": "standalone",
   "background_color": "#09101b",
   "theme_color": "#0f172a",
-  "categories": [
-    "technology",
-    "business",
-    "productivity"
-  ],
+  "categories": ["technology", "business", "productivity"],
   "icons": [
     {
       "src": "/node-vitepress-danielle/logo-mini.svg",

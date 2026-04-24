@@ -1,28 +1,28 @@
-const VERSION = "mozg-site-danielle-v10";
-const HOME_PATH = "/node-vitepress-danielle/";
+const VERSION = 'mozg-site-danielle-v10';
+const HOME_PATH = '/node-vitepress-danielle/';
 const APP_SHELL = [
-  "/node-vitepress-danielle/",
-  "/node-vitepress-danielle/manifest.json",
-  "/node-vitepress-danielle/logo-mini.svg",
-  "/node-vitepress-danielle/logo-mini.png",
-  "/node-vitepress-danielle/og.jpg",
-  "/node-vitepress-danielle/data/site-catalog.json",
-  "/node-vitepress-danielle/data/site-audit.json",
-  "/node-vitepress-danielle/data/site-discovery.json",
-  "/node-vitepress-danielle/data/site-portfolio.json",
-  "/node-vitepress-danielle/data/site-projects.json",
-  "/node-vitepress-danielle/data/site-capabilities.json",
-  "/node-vitepress-danielle/data/site-stacks.json",
-  "/node-vitepress-danielle/data/site-operations.json",
-  "/node-vitepress-danielle/data/site-journeys.json",
-  "/node-vitepress-danielle/data/site-trust.json",
-  "/node-vitepress-danielle/llms.txt",
-  "/node-vitepress-danielle/robots.txt",
-  "/node-vitepress-danielle/contato",
-  "/node-vitepress-danielle/presenca",
-  "/node-vitepress-danielle/en/",
-  "/node-vitepress-danielle/en/contact",
-  "/node-vitepress-danielle/en/presence"
+  '/node-vitepress-danielle/',
+  '/node-vitepress-danielle/manifest.json',
+  '/node-vitepress-danielle/logo-mini.svg',
+  '/node-vitepress-danielle/logo-mini.png',
+  '/node-vitepress-danielle/og.jpg',
+  '/node-vitepress-danielle/data/site-catalog.json',
+  '/node-vitepress-danielle/data/site-audit.json',
+  '/node-vitepress-danielle/data/site-discovery.json',
+  '/node-vitepress-danielle/data/site-portfolio.json',
+  '/node-vitepress-danielle/data/site-projects.json',
+  '/node-vitepress-danielle/data/site-capabilities.json',
+  '/node-vitepress-danielle/data/site-stacks.json',
+  '/node-vitepress-danielle/data/site-operations.json',
+  '/node-vitepress-danielle/data/site-journeys.json',
+  '/node-vitepress-danielle/data/site-trust.json',
+  '/node-vitepress-danielle/llms.txt',
+  '/node-vitepress-danielle/robots.txt',
+  '/node-vitepress-danielle/contato',
+  '/node-vitepress-danielle/presenca',
+  '/node-vitepress-danielle/en/',
+  '/node-vitepress-danielle/en/contact',
+  '/node-vitepress-danielle/en/presence',
 ];
 
 self.addEventListener('install', (event) => {
