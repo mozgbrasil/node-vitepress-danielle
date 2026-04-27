@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-24T22:30:42.023Z",
+  "generated_at": "2026-04-27T07:55:57.484Z",
   "active_profile": "danielle",
   "catalog": {
     "site": {
       "title": "Danielle Amorim | Perfil profissional",
-      "description": "Perfil editorial de Danielle Amorim com LinkedIn, perfil ao vivo e repositório público organizados para leitura simples e evolução coerente.",
+      "description": "Perfil profissional de Danielle Amorim com LinkedIn e presença pública dedicada para leitura simples e evolução coerente.",
       "author": "Danielle Amorim",
       "company": "Danielle Amorim",
       "role": "Perfil profissional",
       "location": "Brasil",
       "siteUrl": "https://mozgbrasil.github.io/node-vitepress-danielle/",
-      "socialImage": "https://mozgbrasil.github.io/node-vitepress-danielle/og.jpg",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-danielle/assets/profile-branding/danielle.jpeg",
       "email": "",
       "phone": "",
       "whatsapp": "",
       "linkedIn": "https://www.linkedin.com/in/danielle-amorim-31766435/",
-      "github": "https://github.com/mozgbrasil/node-vitepress-danielle",
+      "github": "",
       "bluesky": "",
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://www.linkedin.com/in/danielle-amorim-31766435/",
       "githubPages": "",
-      "profileImage": "/logo-mini.svg",
-      "institutionLogo": "",
+      "profileImage": "/assets/profile-branding/danielle.jpeg",
+      "institutionLogo": "/assets/profile-branding/danielle.jpeg",
       "mapsUrl": "",
       "mapsEmbedUrl": "",
       "address": {
@@ -41,8 +41,8 @@
         "presenca publica",
         "linkedin",
         "perfil ao vivo",
-        "GitHub Pages",
-        "repositorio publico"
+        "presenca publica",
+        "identidade profissional"
       ],
       "structuredData": {
         "@context": "https://schema.org",
@@ -51,20 +51,20 @@
         "url": "https://mozgbrasil.github.io/node-vitepress-danielle/",
         "jobTitle": "Perfil profissional",
         "worksFor": { "@type": "Organization", "name": "Danielle Amorim" },
-        "description": "Perfil editorial de Danielle Amorim com LinkedIn, perfil ao vivo e repositório público organizados para leitura simples e evolução coerente.",
+        "description": "Perfil profissional de Danielle Amorim com LinkedIn e presença pública dedicada para leitura simples e evolução coerente.",
         "knowsAbout": [
           "Danielle Amorim",
           "perfil profissional",
           "presenca publica",
           "linkedin",
           "perfil ao vivo",
-          "GitHub Pages",
-          "repositorio publico"
+          "presenca publica",
+          "identidade profissional"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-danielle",
           "https://www.linkedin.com/in/danielle-amorim-31766435/",
-          "https://mozgbrasil.github.io/node-vitepress-danielle/"
+          "https://mozgbrasil.github.io/node-vitepress-danielle/",
+          "https://github.com/mozgbrasil/node-vitepress-danielle"
         ]
       },
       "pixOptions": [],
@@ -75,13 +75,6 @@
           "website": "https://www.linkedin.com/in/danielle-amorim-31766435/",
           "role": "perfil profissional publico",
           "note": "Referencia profissional publica do perfil."
-        },
-        {
-          "name": "node-vitepress-danielle",
-          "cnpj": "",
-          "website": "https://github.com/mozgbrasil/node-vitepress-danielle",
-          "role": "repositorio publico de distribuicao",
-          "note": "Base editorial multi-perfil pronta para novos blocos."
         }
       ]
     },
@@ -94,7 +87,7 @@
       {
         "path": "/",
         "title": "Danielle Amorim | Perfil profissional",
-        "description": "Perfil editorial de Danielle Amorim com LinkedIn, perfil ao vivo e repositório público organizados para leitura simples e evolução coerente."
+        "description": "Perfil profissional de Danielle Amorim com LinkedIn e presença pública dedicada para leitura simples e evolução coerente."
       },
       {
         "path": "/contato",
@@ -117,7 +110,7 @@
       {
         "year": "Atual",
         "title": "Superficies coerentes",
-        "description": "LinkedIn e repositorio publico passam a operar como superfícies complementares do mesmo perfil."
+        "description": "LinkedIn e perfil ao vivo passam a operar como superfícies complementares do mesmo perfil."
       },
       {
         "year": "Atual",
@@ -127,7 +120,7 @@
     ],
     "experienceHighlights": [
       "Perfil profissional organizado para leitura rapida e evolucao simples.",
-      "Superficies principais conectadas entre LinkedIn, perfil ao vivo e repositorio publico.",
+      "Superficies principais conectadas entre LinkedIn e perfil ao vivo.",
       "Base editorial preparada para novos sinais, paginas e exports."
     ],
     "flagshipProjects": [],
@@ -148,11 +141,6 @@
         "title": "Perfil ao vivo",
         "description": "Superficie publica dedicada para consolidar contexto, referencias e continuidade editorial.",
         "href": "https://mozgbrasil.github.io/node-vitepress-danielle/"
-      },
-      {
-        "title": "Repositorio publico",
-        "description": "Base auditavel e versionada para distribuicao editorial do perfil.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-danielle"
       }
     ],
     "publicJourneys": [],
@@ -168,12 +156,6 @@
         "description": "Camada propria para consolidar narrativa, leitura rapida e continuidade editorial.",
         "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
         "value": "GitHub Pages"
-      },
-      {
-        "title": "Repositorio publico do perfil",
-        "description": "Base publica para manutencao, versionamento e auditoria editorial.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-        "value": "GitHub"
       }
     ],
     "operationalPillars": [],
@@ -295,11 +277,6 @@
         "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
         "label": "Perfil ao vivo",
         "note": "superficie publica dedicada"
-      },
-      {
-        "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-        "label": "Repositorio publico",
-        "note": "destino de publicacao do perfil"
       }
     ],
     "presenceProfiles": [
@@ -308,8 +285,8 @@
         "label": "Perfil profissional",
         "title": "danielle",
         "handle": "@danielle",
-        "summary": "Presenca publica estruturada em torno do LinkedIn, perfil ao vivo e do repositorio publico dedicado.",
-        "image": "/logo-mini.svg",
+        "summary": "Presenca publica estruturada em torno do LinkedIn e do perfil ao vivo.",
+        "image": "/assets/profile-branding/danielle.jpeg",
         "imageAlt": "Identidade publica do perfil Danielle Amorim",
         "imageNote": "Superficie profissional de Danielle Amorim",
         "primaryLinks": [
@@ -322,11 +299,6 @@
             "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
             "label": "Perfil ao vivo",
             "note": "superficie publica dedicada"
-          },
-          {
-            "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-            "label": "Repositorio publico",
-            "note": "publicacao do perfil"
           }
         ],
         "groups": [
@@ -340,15 +312,6 @@
               {
                 "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
                 "label": "Perfil ao vivo"
-              }
-            ]
-          },
-          {
-            "title": "Distribuicao editorial",
-            "links": [
-              {
-                "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-                "label": "Repositorio publico"
               }
             ]
           }
@@ -374,11 +337,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
         }
       ],
       "schemaType": "Person",
@@ -391,25 +349,28 @@
           "value": "Perfil ao vivo",
           "label": "com apresentacao publica dedicada"
         },
-        { "value": "Repositorio publico", "label": "para expansao editorial" }
+        {
+          "value": "Presença própria",
+          "label": "com identidade profissional clara"
+        }
       ],
       "heroMetricsEn": [
         { "value": "LinkedIn", "label": "as the central professional surface" },
         { "value": "Live profile", "label": "with a dedicated public surface" },
-        { "value": "Public repository", "label": "for editorial expansion" }
+        { "value": "Personal presence", "label": "with a clear identity" }
       ],
       "navLinks": [],
       "pages": []
     }
   },
   "audit": {
-    "generated_at": "2026-04-24T22:30:42.023Z",
+    "generated_at": "2026-04-27T07:55:57.484Z",
     "company": "Danielle Amorim",
     "site_url": "https://mozgbrasil.github.io/node-vitepress-danielle/",
     "counts": {
       "pages": 3,
       "api_routes": 21,
-      "discovery_items": 39,
+      "discovery_items": 34,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -418,14 +379,14 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 3,
+      "trust_signals": 2,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 3,
+      "surfaces": 2,
       "presence_profiles": 1,
-      "presence_groups": 2,
-      "presence_links": 6,
-      "contact_links": 3
+      "presence_groups": 1,
+      "presence_links": 4,
+      "contact_links": 2
     },
     "pages": ["/", "/contato", "/presenca"],
     "api_paths": [

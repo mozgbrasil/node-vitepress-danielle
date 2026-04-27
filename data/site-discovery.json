@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-24T22:30:42.023Z",
+  "generated_at": "2026-04-27T07:55:57.484Z",
   "filters_applied": {},
-  "total_items": 39,
-  "total_available_items": 39,
+  "total_items": 34,
+  "total_available_items": 34,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 6 },
-    { "label": "contact", "count": 3 },
+    { "label": "presence", "count": 4 },
     { "label": "page", "count": 3 },
-    { "label": "surface", "count": 3 },
-    { "label": "trust", "count": 3 }
+    { "label": "contact", "count": 2 },
+    { "label": "surface", "count": 2 },
+    { "label": "trust", "count": 2 }
   ],
   "items": [
     {
@@ -220,15 +220,6 @@
       "meta": "Contato principal"
     },
     {
-      "id": "contact-repositorio-publico",
-      "kind": "contact",
-      "title": "Repositorio publico",
-      "description": "destino de publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-      "tags": ["contato", "canal", "repositorio-publico"],
-      "meta": "Contato principal"
-    },
-    {
       "id": "page-contato",
       "kind": "page",
       "title": "Contato",
@@ -241,7 +232,7 @@
       "id": "page-danielle-amorim-perfil-profissional",
       "kind": "page",
       "title": "Danielle Amorim | Perfil profissional",
-      "description": "Perfil editorial de Danielle Amorim com LinkedIn, perfil ao vivo e repositório público organizados para leitura simples e evolução coerente.",
+      "description": "Perfil profissional de Danielle Amorim com LinkedIn e presença pública dedicada para leitura simples e evolução coerente.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -274,20 +265,6 @@
       "meta": "@danielle"
     },
     {
-      "id": "presence-danielle-distribuicao-editorial-repositorio-publico",
-      "kind": "presence",
-      "title": "danielle · Distribuicao editorial · Repositorio publico",
-      "description": "Perfil profissional no grupo Distribuicao editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-      "tags": [
-        "personal",
-        "presenca",
-        "distribuicao-editorial",
-        "repositorio-publico"
-      ],
-      "meta": "@danielle"
-    },
-    {
       "id": "presence-danielle-linkedin",
       "kind": "presence",
       "title": "danielle · LinkedIn",
@@ -303,15 +280,6 @@
       "description": "superficie publica dedicada",
       "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
       "tags": ["personal", "presenca", "perfil-ao-vivo"],
-      "meta": "@danielle"
-    },
-    {
-      "id": "presence-danielle-repositorio-publico",
-      "kind": "presence",
-      "title": "danielle · Repositorio publico",
-      "description": "publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-      "tags": ["personal", "presenca", "repositorio-publico"],
       "meta": "@danielle"
     },
     {
@@ -333,15 +301,6 @@
       "meta": "Canal publico"
     },
     {
-      "id": "surface-repositorio-publico",
-      "kind": "surface",
-      "title": "Repositorio publico",
-      "description": "Base auditavel e versionada para distribuicao editorial do perfil.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-      "tags": ["superficie", "publico", "distribuicao"],
-      "meta": "Canal publico"
-    },
-    {
       "id": "trust-perfil-publico-dedicado",
       "kind": "trust",
       "title": "Perfil publico dedicado",
@@ -358,15 +317,6 @@
       "href": "https://www.linkedin.com/in/danielle-amorim-31766435",
       "tags": ["confianca", "institucional", "perfil-publico-principal"],
       "meta": "LinkedIn"
-    },
-    {
-      "id": "trust-repositorio-publico-do-perfil",
-      "kind": "trust",
-      "title": "Repositorio publico do perfil",
-      "description": "Base publica para manutencao, versionamento e auditoria editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-      "tags": ["confianca", "institucional", "repositorio-publico-do-perfil"],
-      "meta": "GitHub"
     }
   ]
 }

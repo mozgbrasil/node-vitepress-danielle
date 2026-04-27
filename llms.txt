@@ -5,10 +5,10 @@
 - Role: Perfil profissional
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-danielle/
-- Generated at: 2026-04-24T20:00:26.559Z
+- Generated at: 2026-04-27T07:55:57.484Z
 
 ## Summary
-Perfil editorial de Danielle Amorim com LinkedIn, perfil ao vivo e repositório público organizados para leitura simples e evolução coerente.
+Perfil profissional de Danielle Amorim com LinkedIn e presença pública dedicada para leitura simples e evolução coerente.
 
 ## Pages
 - Danielle Amorim | Perfil profissional: https://mozgbrasil.github.io/node-vitepress-danielle//
@@ -65,7 +65,6 @@ Perfil editorial de Danielle Amorim com LinkedIn, perfil ao vivo e repositório 
 ## Trust Signals
 - Perfil publico principal: Camada publica principal para apresentacao e contexto profissional. [LinkedIn]
 - Perfil publico dedicado: Camada propria para consolidar narrativa, leitura rapida e continuidade editorial. [GitHub Pages]
-- Repositorio publico do perfil: Base publica para manutencao, versionamento e auditoria editorial. [GitHub]
 
 ## Static Exports
 - https://mozgbrasil.github.io/node-vitepress-danielle//data/site-catalog.json

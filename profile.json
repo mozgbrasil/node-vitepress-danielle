@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T20:00:26.228Z",
+  "generated_at": "2026-04-27T07:55:56.927Z",
   "profile_id": "danielle",
   "label": "Danielle",
   "title": "Danielle Amorim | Perfil profissional",
@@ -20,11 +20,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
       "label": "Perfil ao vivo",
       "note": "superficie publica dedicada do perfil"
-    },
-    {
-      "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-      "label": "Repositorio publico",
-      "note": "destino publico da superficie editorial"
     }
   ]
 }
